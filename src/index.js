@@ -1,6 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import App from './03_Element-Rendering/App';
+import App from './06_이벤트 처리하기/App';
+
+
+
+
 
 
 import reportWebVitals from './reportWebVitals';
